@@ -1,2 +1,2 @@
-# oracle_queries
-Oracle's SQL queries with data for testing
+# Advanced Oracle SQL Queries
+Advanced Oracle's SQL queries with data for testing.
